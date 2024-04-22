@@ -1,0 +1,16 @@
+{
+  "apiID": "package_544a3f__c__function_aadgex7m2osdu",
+  "apiName": "test_1",
+  "label": {
+    "zh_CN": "test_1",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
